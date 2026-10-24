@@ -297,4 +297,4 @@ Contributions are welcome! To contribute:
 ## 📜 License
 
 - **Dataset**: Public Domain (provided by [Alexander Mamaev on Kaggle](https://www.kaggle.com/alxmamaev/flowers-recognition)).
-- **Code / Project License**: *[Confirmation Required]* No explicit software license file (such as MIT or Apache 2.0) is currently included in the repository. If you plan to open-source this project, consider adding an appropriate license file.
+- **Code / Project License**: No explicit software license file (such as MIT or Apache 2.0) is currently included in the repository.
