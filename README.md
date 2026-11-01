@@ -1,4 +1,4 @@
-# 🌸 Flower Image Classification with YOLO (Daisy vs. Dandelion)
+# Flower Image Classification with YOLO (Daisy vs. Dandelion)
 
 An image classification project built with **Ultralytics YOLO** (`yolo26n-cls`) to classify flower images into two categories: **Daisy** and **Dandelion**. This repository contains a preprocessed dataset, model training configurations, evaluation artifacts (metric graphs and confusion matrices), trained weights, and an inference pipeline.
 
